@@ -22,13 +22,28 @@ control statements
 
 conditional statements
         simple if
+            if a>b:
+                print("Greater value")
         if else
-        else if
+            if a>b:
+                print("Greater value")
+            else:
+                print("Lesser value")
+        else if --- Multiple if else conditions
         nested if
+a=int(input("Enter the value of a:"))
+b=int(input("Enter the value of b:"))
+
+print(a+b)
+
 
 Looping statement
          For loop
          while loop
+
+Functions
+
+          
 
 
 
